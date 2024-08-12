@@ -1,2 +1,2 @@
-# TBFC_2021
-Bengali Food Image Classification
+Traditional Bengali Food Classification
+Food Image Classification of Different 7 types of Traditional Bengali Foods.
